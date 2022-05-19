@@ -1,0 +1,4 @@
+# ninja log v5
+0	201	6746762750729595	CMakeFiles/GitTest00.dir/main.cpp.obj	5fd6c5380ba92ea6
+5	203	6746762750735242	CMakeFiles/GitTest00.dir/src/swap.cpp.obj	59ba47809cdfea69
+203	270	6746762751401122	GitTest00.exe	80cb7af0defa42e6

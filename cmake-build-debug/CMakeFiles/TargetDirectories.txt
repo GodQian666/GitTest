@@ -1,0 +1,3 @@
+F:/GitProjects/GitTest00/cmake-build-debug/CMakeFiles/GitTest00.dir
+F:/GitProjects/GitTest00/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/GitProjects/GitTest00/cmake-build-debug/CMakeFiles/rebuild_cache.dir
